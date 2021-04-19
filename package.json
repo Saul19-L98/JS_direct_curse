@@ -1,0 +1,19 @@
+{
+  "name": "jstodolist",
+  "version": "1.0.0",
+  "description": "Create for practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4tomik/JSTodoList.git"
+  },
+  "author": "SAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4tomik/JSTodoList/issues"
+  },
+  "homepage": "https://github.com/4tomik/JSTodoList#readme"
+}
